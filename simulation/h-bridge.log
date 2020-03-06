@@ -1,0 +1,30 @@
+Circuit: * I:\GitHub\DCMotorControllerElectronics\simulation\h-bridge.asc
+
+Limiting rise time of source v3 to 0.05
+Limiting fall time of source v3 to 0.05
+Limiting rise time of source v2 to 0.05
+Limiting fall time of source v2 to 0.05
+WARNING: Node NC_02 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by V3.
+WARNING: Less than two connections to node NC_02.  This node is used by V3.
+WARNING: Less than two connections to node N002.  This node is used by R3.
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Mar  6 11:29:57 2020
+Total elapsed time: 0.066 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2390
+traniter = 2382
+tranpoints = 1192
+accept = 1154
+rejected = 38
+matrix size = 21
+fillins = 4
+solver = Normal
+Matrix Compiler1: 1.40 KB object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.76 KB object code size  0.1/0.2/[0.1]
+
